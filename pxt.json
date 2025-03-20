@@ -1,0 +1,17 @@
+{
+    "name": "Funduino Railway",
+    "version": "0.1",
+    "description": "Makecode extension for Funduino Railway",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "driver.ts",
+        "README.md"
+    ],
+    "testFiles": [
+      "tests.ts"
+    ],
+    "public": true
+}
