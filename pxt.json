@@ -1,14 +1,14 @@
 {
     "name": "FunduinoRailway",
-    "version": "0.0.1",
-    "description": "FunduinoRailway Library",
+    "version": "0.1",
+    "description": "Funduino Railway V0.1",
     "license": "MIT",
     "dependencies": {
         "core": "*"
     },
     "files": [
-        "driver.ts",
-        "README.md"
+        "driver.ts"
     ],
+    "testFiles": [],
     "public": true
 }
