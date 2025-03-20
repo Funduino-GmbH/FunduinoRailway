@@ -2,6 +2,7 @@
  * FunduinoRailway Library for controlling LEDs, servos, and a speaker.
  */
 //% color="#cfbf1f" weight=100 icon="\uf1b3" block="Funduino Railway"
+//% groups=["Initialization", "LED Control", "Servo Control", "Speaker Control"]
 namespace FunduinoRailway {
     let _DEBUG: boolean = false;
 
