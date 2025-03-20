@@ -1,8 +1,8 @@
 /**
- * Simplified PCA9685 Library for controlling LEDs, servos, and a speaker.
+ * FunduinoRailway Library for controlling LEDs, servos, and a speaker.
  */
 //% color="#cfbf1f" weight=100 icon="\uf1b3" block="Funduino Railway"
-namespace PCA9685 {
+namespace FunduinoRailway {
     let _DEBUG: boolean = false;
 
     const debug = (msg: string) => {
