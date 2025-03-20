@@ -1,7 +1,7 @@
 {
-    "name": "pxt-pca9685",
-    "version": "0.0.5",
-    "description": "Generic PCA9685 driver for the BBC micro:bit",
+    "name": "FunduinoRailway",
+    "version": "0.0.1",
+    "description": "FunduinoRailway Library",
     "license": "MIT",
     "dependencies": {
         "core": "*"
@@ -9,9 +9,6 @@
     "files": [
         "driver.ts",
         "README.md"
-    ],
-    "testFiles": [
-      "tests.ts"
     ],
     "public": true
 }
