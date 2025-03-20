@@ -7,7 +7,7 @@
         "core": "*"
     },
     "files": [
-        "driver.ts"
+        "main.ts"
     ],
     "testFiles": [],
     "public": true

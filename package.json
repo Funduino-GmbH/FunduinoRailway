@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "pxt-calliope": "^3.0.30"
+  }
+}
