@@ -1,7 +1,7 @@
 {
-    "name": "Funduino Railway",
-    "version": "0.1",
-    "description": "Makecode extension for Funduino Railway",
+    "name": "pxt-pca9685",
+    "version": "0.0.5",
+    "description": "Generic PCA9685 driver for the BBC micro:bit",
     "license": "MIT",
     "dependencies": {
         "core": "*"
